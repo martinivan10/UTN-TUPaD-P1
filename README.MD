@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bascuñan Martin Ivan *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-25  
+- **Nombre:** Bascuñan Martin Ivan  
+- **Comisión:** M2025-25
 
 ## 📂 Descripción del Repositorio  
 Primer Repositorio **Programación 1**.  
